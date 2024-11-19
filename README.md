@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Satwika Ganta  
+🌟 **Passionate Developer | Aspiring Data Scientist | AI Enthusiast**  
 
-<!--
-**Satwika-01/Satwika-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔍 **About Me**  
+🚀 A **Computer Science and Engineering** student passionate about solving complex problems and building innovative solutions.  
+🌱 Currently exploring **Machine Learning**, **Data Science**, and **Web Development** to stay ahead in the tech world.  
+💻 Proficient in **C++**, **Python**, **Java**, and the **MERN stack** for full-stack web development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ **Interests**  
+🧠 Exploring concepts like **neuroplasticity** and brain rewiring.  
+🌍 Advocating for **secure, accessible, and efficient technology** to empower communities.  
+
+## 📫 **Connect With Me**  
+💌 **Email**: [satwikaganta1@gmail.com](mailto:satwikaganta1@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/satwikaganta](https://www.linkedin.com/in/satwikaganta)
